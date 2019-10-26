@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 hello world-A
-
+hello world-B
